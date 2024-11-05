@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Personal Library</string>
+    <string name="add_book">Add Book</string>
+    <string name="edit_book">Edit Book</string>
+    <string name="book_title">Title</string>
+    <string name="book_author">Author</string>
+    <string name="book_pages">Pages</string>
+    <string name="mark_as_read">Mark as Read</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="search">Search</string>
+    <string name="sort">Sort</string>
+    <string name="sort_by_title">Sort by Title</string>
+    <string name="sort_by_author">Sort by Author</string>
+    <string name="sort_by_pages">Sort by Pages</string>
+    <string name="pages">%d pages</string>
+    <string name="book_deleted">Book deleted</string>
+    <string name="undo">UNDO</string>
+    <string name="fill_all_fields">Please fill all fields correctly</string>
+</resources>
